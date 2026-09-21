@@ -1,6 +1,5 @@
 # Sanchit Jain
-[Assistant Professor, Finance, Accounting and Control, Amrut Mody School of Management, Ahmedabad University](https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/sanchit-jain)
-
+[Assistant Professor, Finance, Accounting and Control, Amrut Mody School of Management, Ahmedabad University](https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/sanchit-jain) 
 🎓 [PhD (Finance & Accounting), Indian Institute of Management Bangalore](https://www.iimb.ac.in/node/9428)  
 🧾 Chartered Accountant | Finance Educator | Researcher  
 
