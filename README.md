@@ -1,5 +1,6 @@
 # Sanchit Jain
-🎓 [PhD Candidate (Finance & Accounting), Indian Institute of Management Bangalore](https://www.iimb.ac.in/node/9428)  
+[Assistant Professor, Finance, Accounting and Control, Amrut Mody School of Management, Ahmedabad University](https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/sanchit-jain)
+🎓 [PhD (Finance & Accounting), Indian Institute of Management Bangalore](https://www.iimb.ac.in/node/9428)  
 🧾 Chartered Accountant | Finance Educator | Researcher  
 
 
@@ -21,7 +22,7 @@ Draft available on: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5
 Draft available on: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4688843)
 
 ### 3. **Energy-related discussion by FED Officials**
-Draft available on: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4839404)
+Paper available on: [Journal of Futures Markets](https://doi.org/10.1002/fut.70078)
 
 ---
 
